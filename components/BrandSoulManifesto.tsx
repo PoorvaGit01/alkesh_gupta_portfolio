@@ -124,7 +124,7 @@ manifestoData.map((item,index)=>(
 key={item.title}
 
 className={`
-relative
+relative 
 
 mb-[80px]
 
