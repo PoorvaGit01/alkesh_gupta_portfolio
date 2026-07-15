@@ -3,9 +3,6 @@
 import { Navigation } from '@/components/Navigation'
 import { Hero } from '@/components/Hero'
 import { BrandCards } from '@/components/BrandCards'
-import { TypographyAnimation } from '@/components/TypographyAnimation'
-import { Testimonials } from '@/components/Testimonials'
-import { About } from '@/components/About'
 import { Footer } from '@/components/Footer'
 import { JourneySection } from '@/components/JourneySection'
 import {AboutGallery} from "@/components/AboutGallery"
